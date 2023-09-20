@@ -1,0 +1,9 @@
+Sample Project:
+https://airteldigital.atlassian.net/projects/SSP/summary
+
+Demos:
+https://www.atlassian.com/software/jira/guides/getting-started/basics#step-1-create-a-project
+https://www.atlassian.com/software/jira/guides/getting-started/basics#step-4-create-an-issue
+https://www.atlassian.com/agile/tutorials
+
+
